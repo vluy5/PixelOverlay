@@ -1,2 +1,11 @@
 # PixelOverlay
-PixelOverlay is a lightweight tool to display a semi-transparent image overlay on your screen. Adjust opacity, move and scale the image, and save/load configs. The overlay is click-through, allowing you to draw or work beneath it, perfect for artists and designers.
+PixelOverlay – a lightweight tool to display a semi-transparent image overlay on your screen. It allows you to:
+
+Place any .jpg or .png image over your workspace.
+Adjust the opacity with a slider in a side control panel.
+Move and scale the overlay image to fit your needs.
+Save and load configurations (position, scale, opacity) with automatic numbering.
+Keep the overlay click-through, so you can draw or interact with applications underneath.
+
+
+Ideal for digital artists, designers, or anyone who wants to trace or reference images directly on their screen without interfering with other apps.
